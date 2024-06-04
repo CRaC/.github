@@ -37,7 +37,7 @@ public class MyClass implements Resource {
 }
 ```
 
-## Example Implementations in this Repository
+## Example Implementation Repositories
 
 * [Spring Boot](https://github.com/CRaC/example-spring-boot)
 * [Quarkus](https://github.com/CRaC/example-quarkus)
