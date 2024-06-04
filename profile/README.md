@@ -10,7 +10,7 @@ The CRaC (Coordinated Restore at Checkpoint) Project researches the coordination
 
 ## Using CRaC in your Application
 
-Use the [CRaC library](https://github.com/CRaC/org.crac) in your project to handle checkpoint creating and restore from checkpoint.
+Use the [CRaC library](https://github.com/CRaC/org.crac) in your project to handle checkpoint creation and restore from a checkpoint.
 
 ```java
 package my.app;
